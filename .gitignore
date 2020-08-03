@@ -1,0 +1,13 @@
+/lib/*/*
+!/lib/*/README
+/bin/*/*
+!/bin/*/README
+/obj/*/*
+!/obj/*/README
+/include/SFML
+*.o
+*.out
+*.gch
+GPATH
+GRTAGS
+GTAGS
